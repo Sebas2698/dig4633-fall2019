@@ -17,5 +17,11 @@ public class Newbehaviourscript : MonoBehaviour
     {
 
     }
+
+    void Start()
+    {
+
+    }
+
 }
 
